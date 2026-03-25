@@ -67,11 +67,6 @@ Forked and extended from THU-MAIC — an open multi-agent interactive classroom 
 **[Portfolio-Suraj_Kumar](https://github.com/Suraj-creation/Portfolio-Suraj_Kumar)**
 Production-grade personal platform built in TypeScript/Next.js — serving as portfolio, project IDE showcase, vision archive, and thought publication system with full public/private content toggles.
 
-**[Internship_Assignment_Gray_Mobility](https://github.com/Suraj-creation/Internship_Assignment_Gray_Mobility)**
-End-to-end ML assignment completed for Gray Mobility — demonstrating applied data science and model development in a production-oriented context.
-
-**[PovAnalytics](https://github.com/Suraj-creation/PovAnalytics)**
-Exploratory data analysis project applying statistical reasoning and visualization to structured datasets.
 
 ---
 
