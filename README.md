@@ -64,8 +64,6 @@ An edge-first AI pedestrian safety platform targeting Raspberry Pi 4 and Jetson 
 **[OpenMAIC](https://github.com/Suraj-creation/OpenMAIC)**
 Forked and extended from THU-MAIC — an open multi-agent interactive classroom platform built in TypeScript, demonstrating agentic orchestration for immersive educational environments.
 
-**[Portfolio-Suraj_Kumar](https://github.com/Suraj-creation/Portfolio-Suraj_Kumar)**
-Production-grade personal platform built in TypeScript/Next.js — serving as portfolio, project IDE showcase, vision archive, and thought publication system with full public/private content toggles.
 
 
 ---
