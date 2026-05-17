@@ -96,14 +96,8 @@ Knowledge is not a list of topics. It is a **dynamic, living, multidisciplinary 
 | [Cortex-Lab](https://github.com/Suraj-creation/Cortex-Lab) | Personal AI · Agentic RAG · 5-plane memory | TypeScript · Python · Next.js · FastAPI · FAISS · DuckDB · Gemma-4 QLoRA | 🟢 Live — Active |
 | [The-inevitable-](https://github.com/Suraj-creation/The-inevitable-) | Knowledge OS · 18-agent EdTech | Python · LangGraph · Multi-agent | 🔵 In Progress |
 | [CrossSafe-EdgeAI](https://github.com/Suraj-creation/CrossSafe-EdgeAI) | Edge AI · Pedestrian Safety | YOLOv8n · ByteTrack · PaddleOCR · TFLite · TensorRT · MQTT | 🟢 Complete |
-| [Shabbeer_Basha](https://github.com/Suraj-creation/Shabbeer_Basha) | Deep Learning Course Platform | TypeScript · Next.js | 🟡 Active |
 | [Reinforced-Cortex_Lab](https://github.com/Suraj-creation/Reinforced-Cortex_Lab) | Reinforcement Learning on Cortex | TypeScript | 🔵 Research |
 | [carcinome](https://github.com/Suraj-creation/carcinome) | Medical AI · Cancer Detection | Python · CNN · ResNet-50 · DenseNet-121 | 🟢 Deployed |
-| [VeloxAI](https://github.com/Suraj-creation/VeloxAI) | AI Platform | Python | 🔵 In Progress |
-| [Resume_Enhancer_AI](https://github.com/Suraj-creation/Resume_Enhancer_AI) | NLP · Document AI | Python | 🟢 Complete |
-| [footwatch](https://github.com/Suraj-creation/footwatch) | Computer Vision · Monitoring | Python | 🟢 Complete |
-| [Fintech](https://github.com/Suraj-creation/Fintech) | Financial AI Platform | TypeScript | 🟡 Active |
-| [Mahadevcab](https://github.com/Suraj-creation/Mahadevcab) | Production SaaS · Cab Service | Next.js · Vercel | 🟢 Live — [mahadevcab.co.in](https://mahadevcab.co.in) |
 | [OpenMAIC](https://github.com/Suraj-creation/OpenMAIC) | Multi-Agent Classroom | TypeScript (forked THU-MAIC) | 🟢 Extended |
 | [Robothon-S0-101](https://github.com/Suraj-creation/Robothon-S0-101) | Robotics · Automation | Shell | 🟢 Complete |
 | [Innerlog](https://github.com/Suraj-creation/Innerlog) | Personal journaling PWA | HTML | 🟢 Live |
@@ -114,7 +108,6 @@ Knowledge is not a list of topics. It is a **dynamic, living, multidisciplinary 
 
 - **[cortex-extends.vercel.app](https://cortex-extends.vercel.app/)** — Cortex Lab marketing & vision site (Core.OS Runtime)
 - **[cortex-frontend-t53t.onrender.com](https://cortex-frontend-t53t.onrender.com/)** — Cortex Lab AI chat interface (Eva memory OS)
-- **[mahadevcab.co.in](https://mahadevcab.co.in)** — Production cab service platform
 - **[fintech-sigma-nine.vercel.app](https://fintech-sigma-nine.vercel.app)** — Fintech platform
 - **[carcinome-ten.vercel.app](https://carcinome-ten.vercel.app)** — Cancer detection AI
 - **[shabbeer-basha.vercel.app](https://shabbeer-basha.vercel.app)** — Deep Learning course
