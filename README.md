@@ -110,7 +110,6 @@ Knowledge is not a list of topics. It is a **dynamic, living, multidisciplinary 
 - **[cortex-frontend-t53t.onrender.com](https://cortex-frontend-t53t.onrender.com/)** — Cortex Lab AI chat interface (Eva memory OS)
 - **[fintech-sigma-nine.vercel.app](https://fintech-sigma-nine.vercel.app)** — Fintech platform
 - **[carcinome-ten.vercel.app](https://carcinome-ten.vercel.app)** — Cancer detection AI
-- **[shabbeer-basha.vercel.app](https://shabbeer-basha.vercel.app)** — Deep Learning course
 - **[vidyashilp-university-shabbeer-dl.vercel.app](https://vidyashilp-university-shabbeer-dl.vercel.app)** — University DL curriculum
 
 ---
